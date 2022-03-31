@@ -16,7 +16,8 @@ Telephone Billing System is capable of performing and managing billing activitie
 
 # 5W's & 1H
 
-![5h](https://user-images.githubusercontent.com/101035658/160983114-191faa3f-9848-4709-aa08-0f2a85d58dda.png)
+![Screenshot 2022-03-31 113455](https://user-images.githubusercontent.com/101035658/160987311-0670c0cf-ef64-4d0e-a4be-c68b6d8e2eac.png)
+
 
 # REQURIEMENTS
 ## HIGH LEVEL REQURIEMENTS
