@@ -1,9 +1,15 @@
+
 PROJ_NAME = bill
 TEST_PROJ_NAME= Test_$(PROJ_NAME)
 
 Build= build
 
-SRC=src/TelephoneBill.c src/AddRecords.c src/DeleteRecords.c src/payment.c src/SearchRecords.c src/unity.c
+SRC=src/TelephoneBill.c\
+src/AddRecords.c\
+src/DeleteRecords.c\
+src/payment.c\
+src/SearchRecords.c\
+
 
 
 
@@ -54,5 +60,3 @@ test:
 
 clean:
 	$(RM) $(call FixPath,*.out)
-
-	
