@@ -16,6 +16,7 @@ void addrecords()
 	
 	}
 	char sss;
+	
 	while(1)
 	{
 	
