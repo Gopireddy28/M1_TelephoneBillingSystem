@@ -15,6 +15,7 @@ void addrecords()
 		printf("/npress any key to continue");
 	
 	}
+	char sss;
 	while(1)
 	{
 	
