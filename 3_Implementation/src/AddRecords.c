@@ -25,7 +25,12 @@ void addrecords()
 		printf("\n Enter amount:");
 		scanf("%f",&s.amount);
 		printf("1 record successfully added");
-		printf("\n Press esc key to exit, any other key to add other record:");
+		printf("\n Press 'E' key to exit, any other key to add other record:");
+		scanf("%s",&sss);
+		if(sss=='E')
+		{
+			break;
+		}
 		
 			
 	}
